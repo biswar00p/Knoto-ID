@@ -1,0 +1,16 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Install and Build
+    init: |
+      mkdir -p build
+      cd build
+      cmake ..
+      make
+    command: |
+      echo "Knoto-ID build complete. Run binaries from ./build"
+
+vscode:
+  extensions:
+    - ms-vscode.cpptools
