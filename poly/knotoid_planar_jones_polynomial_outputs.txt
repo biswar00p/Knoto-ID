@@ -1,0 +1,3459 @@
+===== 1A1P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ACW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AG7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AGG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AGT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AHL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AHO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AKG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ANS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1APF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AS5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ATX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AV3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AXH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AYJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AZ6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AZH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AZJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1AZK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1B1V_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1B3C_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1B41_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1B45_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1B5N_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1B7D_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1B8W_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BAH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BCG_A.xyz =====
+Polynomial:  + A^(-2) + 1 - A^(2) - A^(4) + A^(8)
+
+
+===== 1BDS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BEI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BF0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BGK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BH4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BHP_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1BIG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BK8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BKT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BMR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BNB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BQF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BRV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BRZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BTE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1BUN_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1BXP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1C2U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1C49_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1C4E_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1C55_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1C56_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1C6W_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CB9_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1CBH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CCQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CDQ_A.xyz =====
+Polynomial:  - A^(-4) - A^(-2)*v
+
+
+===== 1CDR_A.xyz =====
+Polynomial:  - A^(-4) - A^(-2)*v
+
+
+===== 1CDS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CDT_A.xyz =====
+Polynomial:  - A^(-4) - A^(-2)*v
+
+
+===== 1CHL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CHV_S.xyz =====
+Polynomial:  + 1
+
+
+===== 1CHZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CIX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CLV_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1CMR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CN2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CNL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CNN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1COD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1COE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CRF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CTI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CVO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CW5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CW6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CXN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CXO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1CZ6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1D1H_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1D5Q_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1D6B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DAN_T.xyz =====
+Polynomial:  + 1
+
+
+===== 1DEM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DEN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DF6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DJT_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1DKC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DL0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DQ7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DRS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DTK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DU9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DW4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1DW5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1E68_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1E74_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1E75_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1E76_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ED0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EDN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EDP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EGT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EHD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EHH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EHS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EIS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EIT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EMX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EN2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ENM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ERA_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1ERG_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1ERH_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1ES7_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1ETH_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1ETL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ETM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ETN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1EYO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1F2S_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1F3K_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1F8U_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1F94_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FAS_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1FEO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FF4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FFJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FGD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FGE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FH3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FJN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FQJ_C.xyz =====
+Polynomial:  + 1
+
+
+===== 1FRA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FSC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FSS_B.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1FU3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FVL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1FYG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1G1P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1G1Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1G2G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1G6M_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1G92_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1G9P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1GIB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1GM2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1GNA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1GPS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1GPT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1GUR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1H0J_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1H20_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1H5O_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1H6K_X.xyz =====
+Polynomial:  + 1
+
+
+===== 1H9H_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1H9I_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1HA9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HAA_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1HAJ_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1HC9_C.xyz =====
+Polynomial:  + 1
+
+
+===== 1HD9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HEV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HJE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HLY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HOY_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1HP2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HP3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HP9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HRL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HVW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HY9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1HYK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I02_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I25_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I26_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I2U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I2V_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I6F_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I6G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I6Y_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I8E_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1I8N_A.xyz =====
+Polynomial:  + A^(-2) + 1 - A^(2) - A^(4) + A^(8)
+
+
+===== 1I93_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IB9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IC9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ICA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ICL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ICO_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1IDG_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1IDH_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1IDI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IDL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IE6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IEN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IEO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IGX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IGZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IJC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IK8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IKC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IM7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IMT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IOD_G.xyz =====
+Polynomial:  + 1
+
+
+===== 1IQ9_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1IQB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IVA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1IXT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1J2L_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1J34_C.xyz =====
+Polynomial:  + 1
+
+
+===== 1J35_C.xyz =====
+Polynomial:  + 1
+
+
+===== 1J5J_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1J8N_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JBD_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1JBF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JBL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JBN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JC6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JE9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JGK_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1JJZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JKZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JLO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JLP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JLZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JMN_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1JMP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JRJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JU8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JXC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JZA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1JZB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1K48_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1K64_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1K83_M.xyz =====
+Polynomial:  + 1
+
+
+===== 1KB7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KB8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KBA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KBT_A.xyz =====
+Polynomial:  - A^(-10) + A^(-6) + A^(-4)
+
+
+===== 1KC4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KC4_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1KCN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KCO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KCP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KFH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KFP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KG1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KL8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KL8_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1KOZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KQH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KQI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KTZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KU6_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1KV0_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1KVE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KVE_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1KWD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KWE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1KXI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1L3X_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1L4V_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1L4W_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1LA4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LFC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LGL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LIR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LJZ_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1LMM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LMR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LPA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LPB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LQH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LQI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LQQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LSI_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1LU0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LU8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LUP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1LX5_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1LXG_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1LXH_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1M2S_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1M4E_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1M4F_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1M9Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MA2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MAH_F.xyz =====
+Polynomial:  + 1
+
+
+===== 1MB6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MCT_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1MCV_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1MII_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MM0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MMC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MPZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MQX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MQY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MQZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MR0_A.xyz =====
+Polynomial:  + A^(-2) + 1 + v + A^(2)
+
+
+===== 1MR4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MR6_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1MTQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MVI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MVJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MXN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MXP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1MYN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1N2Y_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1N4N_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1N4Y_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1N8M_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1N8S_C.xyz =====
+Polynomial:  + 1
+
+
+===== 1NBL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NE5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NEA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NH5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NIL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NIM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NIX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NIY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NOR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NOT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NPI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NRA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NRB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NTN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NXB_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1NXN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NYS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1NYU_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1O82_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1O83_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1O8Y_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1O8Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OAV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OAW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OKH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OMA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OMB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OMC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OMG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OMN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OMY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ONJ_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1ONT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ONU_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ORL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ORX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OT0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1OZZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P00_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P0A_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P0G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P0J_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P0L_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P0O_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P1P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P5K_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P5L_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P8B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P9G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1P9Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PAJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PAK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PAN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PAO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PCN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PCO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PD0_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1PD1_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1PE4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PEN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PJV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PLO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PNH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PPE_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1PQR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PVZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1PX9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Q2J_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1Q2K_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Q3J_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Q7I_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Q7J_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Q9B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QDP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QFB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QFD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QK6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QK7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QKD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QKE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QKY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QM7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QMW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QS3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QUZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1QX9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1R02_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1R1G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1R9I_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RC9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1REW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RGJ_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1RJI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RKK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RL5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RMK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RMR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RO3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RON_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ROO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RPB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RPC_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1RYG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1RYV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1S4Y_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1S6W_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SBU_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SCO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SCY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SEG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SFI_I.xyz =====
+Polynomial:  + 1
+
+
+===== 1SH1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SHI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SIS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SN1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SN4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SNB_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1SQK_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1SRB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1SXM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T0W_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T0Z_A.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 1T1T_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T51_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T52_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T54_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T55_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T7A_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T7B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T7E_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1T7H_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TCG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TCH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TCJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TCK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TEJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TER_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TFS_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 1TGX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TOC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TR6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TSK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TT3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TTK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TTL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TXA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TXB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TXM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1TYK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UG4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UGL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UHA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UL2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ULM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ULN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UOY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UYA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1UYB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1V28_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1V6P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1V6R_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1V7F_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VB0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VIB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VM2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VM3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VM4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VM5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VNA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VNB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1VYC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1W6B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1W7Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WGE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WKX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WM7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WM8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WMT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WN4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WN8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WO9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WPD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WQ8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WQ9_A.xyz =====
+Polynomial:  + A^(-2) + 1 - A^(2) - A^(4) + A^(8)
+
+
+===== 1WQB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WT7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WT8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WUW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WWN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1WZ5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XC0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XDT_R.xyz =====
+Polynomial:  + 1
+
+
+===== 1XGA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XGB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XGC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XI7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XJ1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XSW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XT3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1XY2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Y29_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1Y58_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1YI5_F.xyz =====
+Polynomial:  + 1
+
+
+===== 1YWH_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1Z99_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZA8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZAD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZLH_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZLI_B.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZU3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZUE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZUF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZUT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZVE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZVG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZYV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 1ZYW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2A2V_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2A7T_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2A9H_E.xyz =====
+Polynomial:  + 1
+
+
+===== 2AB9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ABX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ASC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ATB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2B3C_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2BDS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2BEY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2BHI_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 2BMT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2BRZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2BTC_I.xyz =====
+Polynomial:  + 1
+
+
+===== 2BTX_B.xyz =====
+Polynomial:  + 1
+
+
+===== 2C4B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CA7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CBH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CCO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CCX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CDX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CRD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CRS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CRT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CTI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2CTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2DTB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2E0H_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2E3E_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2E3F_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2E3G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ECH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ERA_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 2ERI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ETI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2F2J_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2FQA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2GL1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2GOO_C.xyz =====
+Polynomial:  + 1
+
+
+===== 2H5F_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2H62_D.xyz =====
+Polynomial:  - A^(-4) - A^(-2)*v
+
+
+===== 2H64_C.xyz =====
+Polynomial:  + 1
+
+
+===== 2H7Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2H8U_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 2H9X_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2I61_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2IT7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2IT8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2J8B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2JOT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2JQP_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 2JTB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2JTO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2JUE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2K2X_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2K3G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2K4U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KBH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KBJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KBK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KCH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KCR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KGQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KHB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KJA_A.xyz =====
+Polynomial:  + A^(-2) + 1 - A^(2) - A^(4) + A^(8)
+
+
+===== 2KJF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KNI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KRA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KTC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KTX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KY3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2KYQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LB7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LET_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LI7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LJ7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LJM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LJS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LJV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LKB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LLD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LU9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LY5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2LY6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M01_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M4X_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M4Z_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M50_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M75_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M7F_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M7H_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M8B_B.xyz =====
+Polynomial:  + 1
+
+
+===== 2M99_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2M9O_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ME7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MEL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MEN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MEO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MGO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MJ0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MJ4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MLA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MLD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MLT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MOP_1.xyz =====
+Polynomial:  + 1
+
+
+===== 2MP5_1.xyz =====
+Polynomial:  + 1
+
+
+===== 2MPQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MQF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2MXO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2N1S_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2N2R_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2N66_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2N69_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2NBT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2NDB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2NY8_X.xyz =====
+Polynomial:  + 1
+
+
+===== 2NY9_X.xyz =====
+Polynomial:  + 1
+
+
+===== 2NZ3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2ODY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2OFS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PJF_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PJG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PJI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PJY_C.xyz =====
+Polynomial:  + 1
+
+
+===== 2PLH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PO8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PTA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2PUQ_L.xyz =====
+Polynomial:  + 1
+
+
+===== 2QC1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2QJ9_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2QJA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2QJB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2QTV_D.xyz =====
+Polynomial:  + 1
+
+
+===== 2SH1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2SN3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2STA_I.xyz =====
+Polynomial:  + 1
+
+
+===== 2STB_I.xyz =====
+Polynomial:  + 1
+
+
+===== 2UVS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2UWR_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2UX2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2V1V_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2V9B_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2VUM_M.xyz =====
+Polynomial:  + 1
+
+
+===== 2W9O_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2W9U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2W9V_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2W9W_A.xyz =====
+Polynomial:  + 1
+
+
+===== 2X8B_B.xyz =====
+Polynomial:  + 1
+
+
+===== 2YBR_C.xyz =====
+Polynomial:  + 1
+
+
+===== 2YC1_C.xyz =====
+Polynomial:  + 1
+
+
+===== 2YEO_A.xyz =====
+Polynomial:  + A^(-2) + 1 - A^(2) - A^(4) + A^(8)
+
+
+===== 2Z3S_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3BT1_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3BT2_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3BYB_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3C05_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3C59_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3C5T_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3C8P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3CH5_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3CMH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3CQZ_M.xyz =====
+Polynomial:  + 1
+
+
+===== 3CTI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3CTO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3D4U_B.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 3D65_I.xyz =====
+Polynomial:  - A^(-10) + A^(-6) + A^(-4)
+
+
+===== 3E4H_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3EBX_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 3ERA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3EVS_B.xyz =====
+Polynomial:  - A^(2)*v - A^(4)
+
+
+===== 3GJ3_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3GJ5_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3GJ7_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3GJ8_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3HH7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3JB9_O.xyz =====
+
+
+===== 3KFD_I.xyz =====
+Polynomial:  + 1
+
+
+===== 3LMS_B.xyz =====
+Polynomial:  + 1
+
+
+===== 3NH7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3P8F_I.xyz =====
+Polynomial:  + 1
+
+
+===== 3PLC_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 3PSM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3QB4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3SZS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3TH2_L.xyz =====
+Polynomial:  + 1
+
+
+===== 3TH3_L.xyz =====
+Polynomial:  + 1
+
+
+===== 3TH4_L.xyz =====
+Polynomial:  + 1
+
+
+===== 3UCI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 3UIR_C.xyz =====
+Polynomial:  + 1
+
+
+===== 3VTS_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4AAZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4AB0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4ABI_B.xyz =====
+Polynomial:  + 1
+
+
+===== 4ABJ_B.xyz =====
+Polynomial:  + 1
+
+
+===== 4AEA_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 4AEI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4AML_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4BDT_B.xyz =====
+Polynomial:  + 1
+
+
+===== 4BVV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4CPA_I.xyz =====
+Polynomial:  + 1
+
+
+===== 4CQK_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4D4O_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4D4P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4EC7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4EY8_B.xyz =====
+Polynomial:  + 1
+
+
+===== 4GV5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4HE7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4HGC_I.xyz =====
+Polynomial:  + 1
+
+
+===== 4IYE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4JTC_Y.xyz =====
+Polynomial:  + 1
+
+
+===== 4JTD_Y.xyz =====
+Polynomial:  + 1
+
+
+===== 4KYP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4LFT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4M4C_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4NTW_B.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 4NTX_B.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 4NTY_B.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 4OM4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4OM5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4P7U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4R5R_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4R5U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4RQG_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4TTM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4TTN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4TTO_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4UJ0_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4UY2_C.xyz =====
+Polynomial:  + 1
+
+
+===== 4V1D_C.xyz =====
+Polynomial:  + 1
+
+
+===== 4WP4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4XJJ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4XL1_A.xyz =====
+Polynomial:  + 1
+
+
+===== 4Z6A_L.xyz =====
+Polynomial:  + 1
+
+
+===== 4ZMA_L.xyz =====
+Polynomial:  + 1
+
+
+===== 4ZQY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5AX2_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5EBX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5F84_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5HBT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5HBV_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 5IMT_D.xyz =====
+Polynomial:  + 1
+
+
+===== 5IMY_C.xyz =====
+Polynomial:  + 1
+
+
+===== 5KK4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5KXH_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5KY0_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5KY2_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5KY4_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5KY8_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5KY9_B.xyz =====
+Polynomial:  + 1
+
+
+===== 5L1C_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5LUE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5MOU_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5NCE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5NGV_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5NPN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5NQ4_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5OLL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5T3M_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5T8A_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5TX4_B.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 5TY4_B.xyz =====
+Polynomial:  + A^(4) + A^(4)*v + 2*A^(6) + A^(8) - A^(8)*v - 2*A^(10) - A^(12)
+
+
+===== 5VYP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5WUZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5XDI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5XWE_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5ZJ3_A.xyz =====
+Polynomial:  + 1
+
+
+===== 5ZV6_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6A5I_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AEX_U.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 6ATL_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6ATM_C.xyz =====
+Polynomial:  + 1
+
+
+===== 6ATN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6ATU_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AU7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AUP_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AV8_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AVA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AVC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AVD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6AY7_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6B55_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6CMH_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D3T_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8H_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8Q_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8R_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8S_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8T_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8U_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D8Y_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D93_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D9O_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6D9P_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6DK5_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6EBX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6GFT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6IMF_B.xyz =====
+Polynomial:  + 1
+
+
+===== 6JIC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6LCQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6LSQ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6MAC_A.xyz =====
+Polynomial:  + A^(4) + 2*A^(6) + A^(8)*v
+
+
+===== 6MAC_C.xyz =====
+Polynomial:  + 1
+
+
+===== 6MAC_K.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 6MRY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6MZT_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6NOM_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6OHX_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6PNW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6Q61_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6Q6C_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6RC7_A.xyz =====
+Polynomial:  - A^(-4) - A^(-2)*v
+
+
+===== 6SF1_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 6SF3_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 6THI_A.xyz =====
+Polynomial:  + A^(-2) + 1 - A^(2) - A^(4) + A^(6) + A^(8) + A^(8)*v + A^(10)
+
+
+===== 6V6T_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6VNZ_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6VPN_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6VXW_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6WJC_C.xyz =====
+Polynomial:  + 1
+
+
+===== 6YHT_A.xyz =====
+Polynomial:  + A^(4) + A^(6) - A^(10)
+
+
+===== 6YHY_A.xyz =====
+Polynomial:  + 1
+
+
+===== 6ZOI_A.xyz =====
+Polynomial:  + 1
+
+
+===== 7C28_A.xyz =====
+Polynomial:  + A^(4) + 2*A^(6) + A^(8)*v
+
+
+===== 7KPD_A.xyz =====
+Polynomial:  + 1
+
+
+===== 7O2K_A.xyz =====
+Polynomial:  + 1
+
+
+===== 7Q5G_A.xyz =====
+Polynomial:  + 1
+
+
+===== 7QFC_A.xyz =====
+Polynomial:  + 1
+
+
+===== 7RFA_A.xyz =====
+Polynomial:  + 1
+
+
+===== 8S2C_A.xyz =====
+Polynomial:  + 1
+
+
+===== 9FJY_G.xyz =====
+Polynomial:  + 1
+
+
